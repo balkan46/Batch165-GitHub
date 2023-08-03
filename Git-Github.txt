@@ -2,3 +2,5 @@ Git-GitHub Notlari
 
 - git init ile klasorumuzde git'i baslatmış oluruz.
 - git add . komutu ile yaptigimiz degisiklikleri working directory'den staging area'a tasiriz.
+- git status ile commit öncesinde nerede oldugumuzu goruruz.
+- git commit -m "V1" komutu ile degisiklikleri staging area'dan commit store'a taşırız ve bir versiyon olusturmuş oluruz.
