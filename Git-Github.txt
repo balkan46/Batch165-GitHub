@@ -7,3 +7,5 @@ Git-GitHub Notlari
 - git commit --amend -m "V2" mesajı degistirebiliriz
 - git diff ile working space'deki degisiklikleri gorebiliriz.
 - git show hashcode ile de commit store'daki degisiklikleri goruruz.
+- git remote add origin url diyerek bir remote repository adres tanimlamis oluruz.
+- git push u-origin master ile de dosyalarimizi push ederiz
