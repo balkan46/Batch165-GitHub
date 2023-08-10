@@ -15,3 +15,4 @@ Git-GitHub Notlari
 - git branch --all ile remote'daki branchleri de listeleriz 
 - git branch name diyerek yeni bir branch olustururuz.
 - git merge anotherBranch yazarsak branchleri birlestirmiş ouluruz.
+- git branch -d name yazarak localdeki bir branchi sileriz.
